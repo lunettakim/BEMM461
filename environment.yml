@@ -11,6 +11,5 @@ dependencies:
 - jupyter-panel-proxy  
 
 channels:
-- conda-forge
-
+- pyviz
 
