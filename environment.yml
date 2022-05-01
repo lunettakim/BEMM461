@@ -4,3 +4,8 @@ depencies:
   - panel==0.13.0
   - hvplot==0.7.3
   - watermark==2.3.0
+channels:
+- pyviz
+
+packages:
+- jupyter-panel-proxy
