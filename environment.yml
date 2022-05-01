@@ -8,9 +8,9 @@ dependencies:
 - panel=0.13.0
 - hvplot=0.7.3
 - watermark=2.3.0
-  
+- jupyter-panel-proxy  
+
 channels:
-- pyviz
-packages:
-- jupyter-panel-proxy 
+- conda-forge
+
 
