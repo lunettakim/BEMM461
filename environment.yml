@@ -6,6 +6,5 @@ depencies:
   - watermark=2.3.0
 channels:
 - pyviz
-
 packages:
 - jupyter-panel-proxy
